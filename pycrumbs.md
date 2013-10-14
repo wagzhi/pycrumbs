@@ -398,3 +398,6 @@
 * [Abstracting Control Flow](http://hackflow.com/blog/2013/10/08/abstracting-control-flow/)
 * [Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
 
+##中文
+* [gevent程序员指南](http://xlambda.com/gevent-tutorial/)
+
